@@ -2,7 +2,6 @@
 
 ![Profile Banner](https://github.com/xDqZtop/xDqZtop/blob/main/banner.png?raw=true)
 
-**New Coder**
 
 I'm a new coder with the following technologies:
 
