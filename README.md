@@ -11,7 +11,8 @@ I'm a new coder with the following technologies:
 
 ## 🚀 My Projects
 
-Currently working on several personal projects to be released soon.
+[![Verify](https://img.shields.io/badge/Verify-Project-blue?style=flat-square)](https://github.com/xDqZtop/Verify)
+[![SimpleLogin](https://img.shields.io/badge/Simple_Login-Project-green?style=flat-square)](https://github.com/xDqZtop/SimpleLogin)
 
 ## 🛠️ Technologies & Tools
 
