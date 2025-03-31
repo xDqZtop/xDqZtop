@@ -8,6 +8,7 @@ I'm a new coder with the following technologies:
 - 🛠️ PHP
 - 🎨 HTML5 & CSS3
 - 🔧 MySQL
+- 🚀 Python
 
 ## 🚀 My Projects
 
